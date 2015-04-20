@@ -17,8 +17,11 @@
     margin-left: 50px;
 
 }
+.nav .container h1 {
+    margin-left: 520px;
+}
 
-.Jumbotron .container {
+.other .container {
 	color: 
 	font-size:30px;
     margin-right: 500px;
