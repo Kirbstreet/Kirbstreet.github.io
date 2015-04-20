@@ -13,6 +13,7 @@
 
 .nav .container p {
 	display:inline;
+    background-color: blue;
 }
 
 .Jumbotron .container {
