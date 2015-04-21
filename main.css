@@ -12,14 +12,13 @@
 }
 body {
     background-image: url('http://www.medienkogge.de/root/img/pool/background/body_spot.jpg')\
-    
+
 }
 
 
 
 .nav .container p {
 	display:inline;
-    background-color: white;
     margin-left: 200px;
 
 }
@@ -34,11 +33,3 @@ body {
     margin-left:500px;
 
 }
-
-
-
-
-
-$(document).keypress(function() {
-  $('.dropdown-menu').toggle();
-})
