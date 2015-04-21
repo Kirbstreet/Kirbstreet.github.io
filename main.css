@@ -1,6 +1,6 @@
 
 body {
-    background: url("http://i.imgur.com/VSItGGw.jpg");
+    background: url("http://i.imgur.com/7pCIAqM.jpg");
 
 }
 
@@ -14,8 +14,6 @@ body {
 }
 
 
-
-
 .nav .container {
     color: white;
     font-size:11px;
@@ -25,7 +23,6 @@ body {
     padding-left:10px;
     padding-right:10px;
     text-transform: uppercase;
-    margin-right:auto;
     margin-left:auto; 
 }
 
