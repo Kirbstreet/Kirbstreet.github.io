@@ -11,7 +11,7 @@
    	margin-left:auto; 
 }
 body {
-    background-image: url("http://www.medienkogge.de/root/img/pool/background/body_spot.jpg");
+    background-image: url("http://www.medienkogge.de/root/img/pool/background/body_spot.jpg")
 
 }
 
@@ -30,6 +30,6 @@ body {
 	color: 
 	font-size:30px;
     margin-right: 500px;
-    margin-left:500px;
+    margin-left:800px;
 
 }
