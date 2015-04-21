@@ -10,6 +10,12 @@
    	margin-right:auto;
    	margin-left:auto; 
 }
+body {
+    background-image: url('http://www.medienkogge.de/root/img/pool/background/body_spot.jpg')\
+    
+}
+
+
 
 .nav .container p {
 	display:inline;
@@ -33,3 +39,6 @@
 
 
 
+$(document).keypress(function() {
+  $('.dropdown-menu').toggle();
+})
