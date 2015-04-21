@@ -11,7 +11,7 @@
    	margin-left:auto; 
 }
 body {
-    background-image: url("")
+    background-image: <a href="http://imgur.com/KKIIUiu"><img src="http://i.imgur.com/KKIIUiu.jpg" title="source: imgur.com" /></a>
 
 }
 
@@ -21,11 +21,12 @@ body {
 	display:inline;
     margin-left: 200px;
     text-transform: capitalize;
-    font-color: white;
+    color: white;
 
 }
 .nav .container h1 {
     margin-left: 810px;
+
 }
 
 .other .container {
