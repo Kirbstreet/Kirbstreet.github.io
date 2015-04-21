@@ -11,7 +11,7 @@
    	margin-left:auto; 
 }
 body {
-    background-image: url("http://www.medienkogge.de/root/img/pool/background/body_spot.jpg")
+    background-image: url("")
 
 }
 
@@ -20,6 +20,8 @@ body {
 .nav .container p {
 	display:inline;
     margin-left: 200px;
+    text-transform: capitalize;
+    font-color: white;
 
 }
 .nav .container h1 {
