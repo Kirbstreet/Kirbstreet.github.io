@@ -4,41 +4,16 @@ body {
 
 }
 
-.header {
-    color: white;
-    display: inline;
-    text-transform: capitalize;
-    padding-right: 50px;
-    padding-left: 50px;
-    margin-top:1px;
-    font-weight: bolder;
-}
 
-
-.nav .container {
+.container .nav {
     color: white;
     font-size:11px;
     font-weight:bold;
     padding-left:10px;
     padding-right:10px;
     text-transform: uppercase;
-    margin-left:auto; 
-}
-
-.nav .container p {
-	display:inline;
-    margin-left: 200px;
-    text-transform: capitalize;
-    color: white;
-}
-
-.other .container {
-	color: white;
-	font-size:30px;
-    margin-right: 500px;
-    margin-left:800px;
-    margin-top: 300px;
-
+    margin-left:50%; 
+    margin-right: 30%;
 }
 
 
