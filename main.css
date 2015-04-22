@@ -17,11 +17,15 @@ body {
 }
 
 
-.container .jumbotron {
+.container .jumbotron h1 {
     color:white;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: bolder;
     text-transform: uppercase;
     margin-right: 50%
     margin-left 50%
+}
+
+.container .jumbotron {
+    margin-right: 50%
 }
