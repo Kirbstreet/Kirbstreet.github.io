@@ -54,7 +54,7 @@ body {
 /* Supporting marketing content */
 .marketing {
   margin: 40px 0;
-  background-color: #6E6E6E;
+  border-bottom: 2px solid: #6E6E6E;
 }
 .marketing p + h4 {
   margin-top: 28px;
