@@ -1,13 +1,13 @@
 
 body {
-    background: url("http://imgur.com/RdWUEOf.jpg");
+    background: url("http://i.imgur.com/F7ZoOlw.jpg");
 
 }
 
 
-.container .nav {
+.container .nav h4 {
     color: white;
-    font-size:11px;
+    font-size:20px;
     font-weight:bold;
     padding-left:10px;
     padding-right:10px;
